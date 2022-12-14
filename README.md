@@ -41,6 +41,21 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 
+### Test with
+
+To run in `localhost:3000` and visualize the solution, you must first install the NPM dependencies.
+
+```
+npm install
+```
+When the installation has completed, run the next script.
+
+```
+npm start
+```
+
+*Note: You must point to the project's directory inside the terminal in order to run the commands.*
+
 ## Author
 
 - Github - [@diremanwolf](https://github.com/diremanwolf)
