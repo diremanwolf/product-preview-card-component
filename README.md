@@ -27,6 +27,10 @@ Users should be able to:
 - Solution URL: [github:diremanwolf/preview-product-card-component](https://github.com/diremanwolf/product-preview-card-component)
 - Live Site URL: [vercel:diremanwolf/preview-product-card-component](https://product-preview-card-component-diremanwolf.vercel.app/)
 
+### Screenshot
+
+![desktop-version](./evidence/screenshot-desktop.png)
+
 ## My process
 
 ### Built with
