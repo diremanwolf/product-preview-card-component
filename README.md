@@ -24,9 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile-version](./screenshot-evidence-mobile.png)
+![mobile-version](./evidence/screenshot-mobile.png)
 
-![desktop-version](./screenshot-evidence-desktop.png)
+![desktop-version](./evidence/screenshot-desktop.png)
 
 ### Links
 
