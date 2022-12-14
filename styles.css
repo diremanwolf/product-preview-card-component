@@ -88,6 +88,8 @@ body {
 .preview-product {
     max-width: 700px;
 
+    margin: 50px 0;
+
     display: grid;
     align-items: center;
     grid-template: 1fr / repeat(2, 1fr);
