@@ -92,7 +92,7 @@ body {
 
     display: grid;
     align-items: center;
-    grid-template: 1fr / repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr);
 
     overflow: hidden;
     border-radius: 20px;
@@ -108,46 +108,43 @@ body {
     align-self: stretch;
     align-items: center;
 
-    grid-template-columns: 1fr;
     grid-template-rows: repeat(5, auto);
 
     padding: 30px;
 }
 
 .section {
-    font-size: 10px;
-    letter-spacing: 10px;
+    font-size: 1rem;
+    letter-spacing: 1em;
     color: var(--color-gblue);
 }
 
 .handle {
-    font-size: 35px;
-    line-height: 1em;
+    font-size: 2.5rem;
     color: var(--color-dblue);
     font-family: 'Fraunces', serif;
 }
 
 .detail {
-    line-height: 1.5em;
+    line-height: 1.5;
     color: var(--color-gblue);
 }
 
 .price {
-    display: grid;
+    display: flex;
     align-items: center;
-    grid-template: 1fr / repeat(2, 1fr);
 }
 
 .current {
-    font-size: 35px;
+    font-size: 2rem;
     color: var(--color-gcyan);
     font-family: 'Fraunces', serif;
 }
 
 .previous {
+    font-size: 1rem;
     padding-left: 15px;
     color: var(--color-gblue);
-    text-decoration: line-through;
 }
 
 .purchase {
